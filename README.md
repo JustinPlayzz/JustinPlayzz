@@ -1,8 +1,5 @@
-### Hi there 👋
-
+![JustinPlayzz's github stats](https://github-readme-stats.vercel.app/api?username=JustinPlayzz&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 <!--
-**JustinPlayzz/JustinPlayzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
