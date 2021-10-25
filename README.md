@@ -1,4 +1,6 @@
 ![JustinPlayzz's github stats](https://github-readme-stats.vercel.app/api?username=JustinPlayzz&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinplayzz&count_private=true&show_icons=true&theme=dark&hide=css,html,javascript&langs_count=10)
 <!--
 Here are some ideas to get you started:
 
